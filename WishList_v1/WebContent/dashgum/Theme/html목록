@@ -1,0 +1,23 @@
+필요없는 html 목록
+lock_screen.html
+todo_list.html
+basic_table.html
+responsive_table.html
+general.html
+buttons.html
+index.html
+morris.html
+chartjs.html
+form_component.html
+
+필요한 html 목록
+blank.html
+calendar.html
+gallery.html
+login.html
+panels.html
+basic_form.html ->제일 기본 틀 html, 기본적인 메뉴만 구성돼있고 메인콘텐츠 없음
+
+
+li class="active"
+li class="mt"
